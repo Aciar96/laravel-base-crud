@@ -1,6 +1,6 @@
-@extends('layout.mian')
+@extends('layout.main')
 
-@extends('title', 'home')
+
 
 @section('content')
  <div class="card-title text-center">
